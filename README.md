@@ -137,5 +137,13 @@ Each experiment runs all combinations of:
 If you use this code in your research, please cite the paper above.
 
 ```bibtex
-
+@misc{kucuk2026singlemultitruthdata,
+      title={Single and Multi Truth Data Fusion using Large Language Models}, 
+      author={Hira Beril Kucuk and Norman W Paton and Jiaoyan Chen and Zhenyu Wu},
+      year={2026},
+      eprint={2606.28062},
+      archivePrefix={arXiv},
+      primaryClass={cs.DB},
+      url={https://arxiv.org/abs/2606.28062}, 
+}
 ```
